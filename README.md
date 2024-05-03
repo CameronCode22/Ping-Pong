@@ -1,2 +1,2 @@
 # Ping-Pong
-A game to practice the turtle library Python
+Pong game to demonstrate turtle library understanding. And practice with variables and data types, conditionals, loops, functions, event handling, collision detection
